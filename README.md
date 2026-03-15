@@ -12,10 +12,10 @@
 
 ## 👋 Hi, I'm Charan Shetty
 
-### 🛡️ IIoT Security | Cybersecurity | Embedded Systems
+### 🛡️ System Design | Cybersecurity | IoT
 
-I am a 19-year-old technology enthusiast deeply interested in cybersecurity and intelligent systems.  
-My learning journey focuses on securing industrial IoT environments, understanding embedded platforms, and building strong foundations in both software and hardware security.  
+I am a 20-year-old technology enthusiast deeply interested in cybersecurity and intelligent systems.  
+My learning journey focuses on securing industrial IoT environments, understanding system design, and building strong foundations in both software and hardware security.  
 I enjoy working on real-world security problems, experimenting with tools, and continuously expanding my technical skillset.
 
 ---
